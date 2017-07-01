@@ -1,1 +1,1 @@
-# lab1
+g++ -o lab1b lab1b.cpp
